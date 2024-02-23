@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "m9-aula-01"
+version = "0.1.0"
+description = ""
+authors = ["Luis Gustavo Zanetti <49000286+LuisGustavoCZP@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
